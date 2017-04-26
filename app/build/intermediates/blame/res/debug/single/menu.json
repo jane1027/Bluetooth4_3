@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Bluetooth4_3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Bluetooth4_3\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Bluetooth4_3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "D:\\Bluetooth4_3\\app\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "D:\\success\\Bluetooth4_3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\success\\Bluetooth4_3\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\success\\Bluetooth4_3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "D:\\success\\Bluetooth4_3\\app\\src\\main\\res\\menu\\gatt_services.xml"
+    }
+]

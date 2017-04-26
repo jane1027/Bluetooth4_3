@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Bluetooth4_3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\Bluetooth4_3\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\success\\Bluetooth4_3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\success\\Bluetooth4_3\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
